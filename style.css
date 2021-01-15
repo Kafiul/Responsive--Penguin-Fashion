@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+.margin-section{
+    margin-top: 10%;
+   
+}
+.man-section{
+    margin-bottom: 5%;
+}
+.border-radius{
+    border-radius: 5%;
+
+}
+.button{
+    text-align: end;
+    padding: 1em;
+}
+.buy-button{
+    border-radius: 10px;
+    border: 2px;
+    background-color:  chartreuse;
+}
+.dollar{
+    color: darkgoldenrod;
+}
